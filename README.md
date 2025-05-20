@@ -48,3 +48,9 @@ By each number in the medical_data_visualizer.py file, add the code from the ass
 
 Development
 Write your code in medical_data_visualizer.py. For development, you can use main.py to test your code.
+
+
+![histogram](https://github.com/user-attachments/assets/fed24a48-f06f-47a0-89f8-a4081a01f3a3)
+
+
+![heatmap](https://github.com/user-attachments/assets/bd356690-f187-428c-8f02-e38d5c7be9f6)
